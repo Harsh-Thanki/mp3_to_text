@@ -33,6 +33,6 @@ This project uses the `tiny` Whisper model due to its small size. You can change
 
 The available models are: `tiny`, `base`, `small`,`medium`, `large`.
 
-To change the model, update the model name in the `load_model` method in `main.py` file.
+To change the model, update the model name in the `model_name` variable in `main.py` file.
 
 To get more info visit: [Whisper GitHub Repository](https://github.com/openai/whisper)
