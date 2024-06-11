@@ -12,21 +12,22 @@ This project turns mp3 input into text and writes it down in a txt file.
 pip install git+https://github.com/openai/whisper.git
 ```
 
-3. Install `ffmpeg` using below command:
+4. Install `ffmpeg` using below command:
 
 ```sh
 sudo apt update
 sudo apt install ffmpeg
 ```
 
-4. The input mp3 is Kwaai public meet May 17 2024 audio. If you want to change it:
+5. The input mp3 is Kwaai public meet May 17 2024 audio. If you want to change it:
    -  Add the mp3 that you want to convert in text in the input directory.
    -  Now change the value of `audio_file_path` variable inside main.py to the added mp3 file path.
 
+Note: While running the script, you will be prompted to enter the desired output format (txt or srt).
 
-5. Replace the output file name to a new file name at the `output_file_path` variable in main.py file.
-6. Run the main.py
-7. After the main.py runs successfully you can check the output file inside output directory with your specified name.
+6. Update the `output_file_path` variable in main.py with your desired output file name.
+7. Run the main.py
+8. After the main.py runs successfully you can check the output file inside output directory with your specified name.
 
 ### NOTE: 
 This project uses the `tiny` Whisper model due to its small size. You can change it to a larger model for better output quality. 
