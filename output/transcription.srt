@@ -1,0 +1,3304 @@
+1
+00:00:00,000 --> 00:00:11,000
+Okay, welcome everybody. This is public meeting number 42 of quiet happy quiet day. May 17, 2024.
+
+2
+00:00:12,000 --> 00:00:19,000
+Gosh, we got a full agenda. We've got a speaker. I'm hoping he's going to join.
+
+3
+00:00:19,000 --> 00:00:29,000
+How do we want to be? How do we want to be? Does. And just to just to ping him our drop-up message, Jim,
+
+4
+00:00:30,000 --> 00:00:35,000
+great. I'm going to start and we'll we'll juggle the schedule if such it is late but in the
+
+5
+00:00:35,000 --> 00:00:43,000
+interest of time, let's get started. Thank you all for joining a good bumper crop of members.
+
+6
+00:00:45,000 --> 00:00:51,000
+Let me let me tell you how membership rate is increasing. I think by the end of this month we'll
+
+7
+00:00:51,000 --> 00:00:58,000
+probably break 400 members where it's about 370. Last night, I was at the fantastic event,
+
+8
+00:00:58,000 --> 00:01:08,000
+AITP, a professional organization hosted an event. It was actually hosted by Accenture.
+
+9
+00:01:08,000 --> 00:01:16,000
+So AITP invited me as a speaker and there was another speaker, John Moran, John Moras. Sorry.
+
+10
+00:01:18,000 --> 00:01:27,000
+It was downtown LA and I, the talk was about AI and gosh, they had us there till about nine
+
+11
+00:01:27,000 --> 00:01:35,000
+o'clock at night. The moderators at the, they stopped the questions. It went on quite a while.
+
+12
+00:01:36,000 --> 00:01:43,000
+AI is a hot topic and look, we are gathered here as a group of critical thinkers. We're not
+
+13
+00:01:43,000 --> 00:01:51,000
+simply cheer leaders for the status quo. This is a rich vein of intellect and
+
+14
+00:01:52,000 --> 00:01:58,000
+people that have got some sort of angst. Not a vague angst, we've got an angst and we think we know
+
+15
+00:01:58,000 --> 00:02:05,000
+what we can do about it about how to build an organization that is a credible alternative to the
+
+16
+00:02:05,000 --> 00:02:14,000
+monopolizing forces. So thank you so much for participating and we're going to give you updates
+
+17
+00:02:15,000 --> 00:02:21,000
+today. I think what we'll do is we'll go to the work group updates and then we will
+
+18
+00:02:23,000 --> 00:02:32,000
+proceed. Wait for our lightning talker, so you're there to join and and and and and juggle the
+
+19
+00:02:33,000 --> 00:02:40,000
+the order of events. Okay, so Debbie, back to you and let's get on with the agenda.
+
+20
+00:02:40,000 --> 00:02:45,000
+Right, everybody. Welcome. Welcome. Well, what is up? You're next. So
+
+21
+00:02:46,000 --> 00:02:51,000
+I'm going to like throw back to you. You're going to throw it back to me. Okay, so what I want to talk
+
+22
+00:02:51,000 --> 00:03:00,000
+to there about is our beta program. Great. So I'm going to share an issue if you've not seen it already.
+
+23
+00:03:02,000 --> 00:03:07,000
+So I'm going to share and I'm going to share the beta program. It's the second tab on the website.
+
+24
+00:03:08,000 --> 00:03:19,000
+There we go. And I'm up. Right. And the second tab on the website is is the beta tab. And it says,
+
+25
+00:03:19,000 --> 00:03:26,000
+we're going to be running an AI beta program in Q3 and the that's put the engineers at working
+
+26
+00:03:26,000 --> 00:03:33,000
+on at the moment. All the furious coding of our volunteer engineers are to get the proof of
+
+27
+00:03:33,000 --> 00:03:41,000
+concept that we showed at the end of Q1 up to a beta level. And what you're seeing here on the
+
+28
+00:03:41,000 --> 00:03:51,000
+page is the proof of concept, but the beta functionality will be enhanced. And the beta is going
+
+29
+00:03:51,000 --> 00:03:59,000
+to run in academia, be a closed beta. So we're running in schools, no, in colleges and universities.
+
+30
+00:03:59,000 --> 00:04:06,000
+Probably not make it to high schools, although I did have some inbound queries about getting
+
+31
+00:04:06,000 --> 00:04:14,000
+it to run in high schools. We may extend it in high schools, I'm not sure. So if you scroll down here,
+
+32
+00:04:14,000 --> 00:04:22,000
+the beta objectives for the host would be to bring cutting edge personally to your campus
+
+33
+00:04:23,000 --> 00:04:30,000
+and to test personally AI in an academic setting. The two use cases, there's one is the
+
+34
+00:04:30,000 --> 00:04:37,000
+virtual teachers assistant. So here we have the Pi owner, the personal AI owner is a professor
+
+35
+00:04:37,000 --> 00:04:45,000
+or some member of staff. The Pi users that they grant access to would be students. So the
+
+36
+00:04:45,000 --> 00:04:51,000
+student facing use case, the virtual teachers assistant, ask the professor is a similar thing.
+
+37
+00:04:53,000 --> 00:05:00,000
+And it need not be course curriculum material. It could be their body of writing, their
+
+38
+00:05:00,000 --> 00:05:08,000
+body of research. It's in fact any knowledge base that the Pi owner is able to curate. And what we're
+
+39
+00:05:08,000 --> 00:05:17,000
+making it easy to do is to create your own Pi to create your own knowledge base as well. And the
+
+40
+00:05:17,000 --> 00:05:26,000
+knowledge base through the technology of Rag is very easy to curate. This is not the owner's
+
+41
+00:05:26,000 --> 00:05:35,000
+retraining of a model. It is in fact a simple dragging and dropping of files into folders. So that's
+
+42
+00:05:35,000 --> 00:05:48,000
+how easy it's going to be. The user objectives are to be able to interact with an AI in a
+
+43
+00:05:48,000 --> 00:05:55,000
+meaningful way and get some value out of it. But for each Pi owner that releases it, let's say,
+
+44
+00:05:55,000 --> 00:06:00,000
+to a student body of 100 students, each of those students will be able to click a button and say,
+
+45
+00:06:00,000 --> 00:06:07,000
+build my personal AI. So what we want to do in this page is also test out the viability of the
+
+46
+00:06:07,000 --> 00:06:12,000
+experience. Is that something people want to do? Do they want to build their own AI? If it's super simple,
+
+47
+00:06:12,000 --> 00:06:17,000
+if it's three clicks one click, what does it look like? Maybe it doesn't even have a face.
+
+48
+00:06:17,000 --> 00:06:23,000
+Second click, what does it sound like? That seems to be important. Third click is what is the knowledge
+
+49
+00:06:23,000 --> 00:06:28,000
+base that it's curated that you're going to curate for your personal AI?
+
+50
+00:06:28,000 --> 00:06:41,000
+It's a simple configuration, the server topology. We've got the servers running up in AWS.
+
+51
+00:06:41,000 --> 00:06:46,000
+What we're going to do is we're going to ask each university in college to host the back end
+
+52
+00:06:46,000 --> 00:06:54,000
+for their own beta. It's a close beta to each college and access we manage through the domain
+
+53
+00:06:55,000 --> 00:07:06,000
+emails, at least for the owners. Then the pie owners, let's staff faculty, so on would release
+
+54
+00:07:06,000 --> 00:07:17,000
+would grant access to students. Okay, so we put up a apply to join the beta program, click there,
+
+55
+00:07:18,000 --> 00:07:26,000
+we've already had five colleges sign up. We hope to get more. If you want to bring this to your
+
+56
+00:07:26,000 --> 00:07:34,000
+alma mater, let us know, get them to click, make an introduction. We've got some notable
+
+57
+00:07:34,000 --> 00:07:39,000
+colleges. I think the first and most enthusiastic one, and thanks to Aftion for bringing us
+
+58
+00:07:39,000 --> 00:07:48,000
+and so Cornell's the first one. But hey, a few others are going to follow. I think we've got
+
+59
+00:07:48,000 --> 00:08:03,000
+UCR over side. We're speaking to Danza College. We've got lots of other inbound UCSD, Harvard,
+
+60
+00:08:03,000 --> 00:08:10,000
+Dosh. Why don't we get Harvard? We've got Harvard through Bruchnaya, and we built a bot for him
+
+61
+00:08:10,000 --> 00:08:18,000
+really early on. We've not made a big noise about this yet. Once we've got a good
+
+62
+00:08:20,000 --> 00:08:27,000
+sort of a forum of initial colleges, I think we can make a noise about that. Then the sort of
+
+63
+00:08:27,000 --> 00:08:35,000
+foam of the other colleges are wanting to get involved. We'll obviously take effect. It's our aim.
+
+64
+00:08:35,000 --> 00:08:46,000
+It's our aim to get 20 to 30 colleges signed up. We are also talking with potential
+
+65
+00:08:47,000 --> 00:08:54,000
+infrastructure donors who want to participate in the beta program. They seem to be enthusiasm
+
+66
+00:08:54,000 --> 00:09:03,000
+for that. Not all colleges have the wherewithal to put up a number of these G5 servers.
+
+67
+00:09:04,000 --> 00:09:14,000
+So in that case, that hosting will be underwritten by Ovento. We talk into a few and I want
+
+68
+00:09:14,000 --> 00:09:21,000
+to thank Joe Sappers from SwissVolt for making introductions for us to
+
+69
+00:09:21,000 --> 00:09:29,000
+there infrastructure partner. We can take it forward from there. But hey, a lot more is needed.
+
+70
+00:09:29,000 --> 00:09:34,000
+And so to make this successful, let's get that well covered.
+
+71
+00:09:38,000 --> 00:09:42,000
+I'm going to stop presenting their back to you, Debbie.
+
+72
+00:09:51,000 --> 00:09:58,000
+And so next, I think I believe we have Toby with Hackathon.
+
+73
+00:10:01,000 --> 00:10:01,000
+You hear me?
+
+74
+00:10:06,000 --> 00:10:08,000
+Morning Toby.
+
+75
+00:10:08,000 --> 00:10:22,000
+So not much of these just lots and lots of positive energy and replies. I'm literally having
+
+76
+00:10:22,000 --> 00:10:29,000
+that ask Archana to help you reply to the leads. So thank you. We haven't converted. You need
+
+77
+00:10:29,000 --> 00:10:35,000
+to convert. You need some dollars in the door. So that's the metric I'm looking at to bring back
+
+78
+00:10:35,000 --> 00:10:43,000
+to hopefully get to it's all, but yes, it's really turning out. Lots and lots and lots of people are.
+
+79
+00:10:43,000 --> 00:10:52,000
+Oh, one big confirmation. Arizona will happen. So how is Smith? Thank you, most of
+
+80
+00:10:52,000 --> 00:10:58,000
+As well as this another super in-row guided A&M news.
+
+81
+00:11:02,000 --> 00:11:06,000
+I don't have the delays. Just thank you.
+
+82
+00:11:06,000 --> 00:11:10,000
+Walkathon. Study them.
+
+83
+00:11:10,000 --> 00:11:14,000
+And it's new. There's any other valid news that
+
+84
+00:11:14,000 --> 00:11:18,000
+can help. I would love to talk to anyone which can help.
+
+85
+00:11:18,000 --> 00:11:19,000
+who can help.
+
+86
+00:11:19,000 --> 00:11:22,000
+And we can use mint toys as well.
+
+87
+00:11:22,000 --> 00:11:25,000
+Yes, we need lots and lots and lots of mint toys.
+
+88
+00:11:25,000 --> 00:11:26,000
+Oh, I'm Garble.
+
+89
+00:11:26,000 --> 00:11:27,000
+I'm sorry.
+
+90
+00:11:27,000 --> 00:11:28,000
+College and see guys.
+
+91
+00:11:28,000 --> 00:11:30,000
+You're a pretty.
+
+92
+00:11:30,000 --> 00:11:32,000
+Is that better?
+
+93
+00:11:32,000 --> 00:11:37,000
+Carson, you want to talk?
+
+94
+00:11:37,000 --> 00:11:39,000
+Maybe you have the better direction.
+
+95
+00:11:48,000 --> 00:11:50,000
+Well, he didn't really hate to be.
+
+96
+00:11:50,000 --> 00:11:56,000
+I have a really famous guy, Khanol, and Orange County California interested in quiet
+
+97
+00:11:56,000 --> 00:11:57,000
+and high.
+
+98
+00:11:57,000 --> 00:12:01,000
+And what we're doing here for education and public schools.
+
+99
+00:12:01,000 --> 00:12:02,000
+So I just wanted to mention that.
+
+100
+00:12:02,000 --> 00:12:07,000
+He's coming out to the show this weekend for the expose on Texas, meaning A.
+
+101
+00:12:07,000 --> 00:12:11,000
+But yeah, I got someone who's really big and didn't have a lot of press.
+
+102
+00:12:11,000 --> 00:12:12,000
+Come to us.
+
+103
+00:12:12,000 --> 00:12:13,000
+So that's that.
+
+104
+00:12:13,000 --> 00:12:14,000
+We bet Carson.
+
+105
+00:12:14,000 --> 00:12:15,000
+We bet Carson.
+
+106
+00:12:15,000 --> 00:12:18,000
+This is considered next weekend for us on the show.
+
+107
+00:12:24,000 --> 00:12:25,000
+Great.
+
+108
+00:12:25,000 --> 00:12:31,000
+So cast an October last night.
+
+109
+00:12:31,000 --> 00:12:43,000
+I met Frederick World from his the assistant dean of innovation at UCLA.
+
+110
+00:12:43,000 --> 00:12:48,000
+And he said, yeah, we'd love to host your happy film in June in Los Angeles at the UCLA
+
+111
+00:12:48,000 --> 00:12:50,000
+Extension Building.
+
+112
+00:12:50,000 --> 00:12:51,000
+Very good.
+
+113
+00:12:51,000 --> 00:12:55,000
+So we've got that.
+
+114
+00:12:55,000 --> 00:13:06,000
+And we also made good friends with Accenture last night, because the event was hosted there.
+
+115
+00:13:07,000 --> 00:13:11,000
+And that was that was super important.
+
+116
+00:13:11,000 --> 00:13:17,000
+We, I think there's there's capacity there for them to host.
+
+117
+00:13:17,000 --> 00:13:20,000
+There's also capacity for them to sponsor.
+
+118
+00:13:20,000 --> 00:13:28,000
+The next one you should probably follow up on is Joe Suppers on the call today from
+
+119
+00:13:29,000 --> 00:13:38,000
+Toys Vault, very eager to both sponsor and maybe participate also in the Hackathons.
+
+120
+00:13:38,000 --> 00:13:45,000
+Either as infrastructure sponsors or.
+
+121
+00:13:45,000 --> 00:13:53,000
+They're not an open source developer, but there's ways in which they can participate through sponsorship.
+
+122
+00:13:54,000 --> 00:13:56,000
+I great.
+
+123
+00:13:56,000 --> 00:14:03,000
+So I said to you those links and then we should follow up on that.
+
+124
+00:14:03,000 --> 00:14:04,000
+Okay.
+
+125
+00:14:07,000 --> 00:14:09,000
+I back to you.
+
+126
+00:14:09,000 --> 00:14:12,000
+I mean, this is all you're funding.
+
+127
+00:14:12,000 --> 00:14:14,000
+Okay.
+
+128
+00:14:14,000 --> 00:14:19,000
+So what can I say in a public call?
+
+129
+00:14:19,000 --> 00:14:22,000
+There's probably not a lot I can say in a public call, but we are.
+
+130
+00:14:23,000 --> 00:14:26,000
+Approaching.
+
+131
+00:14:26,000 --> 00:14:32,000
+Significant we're getting significant activity regarding funding.
+
+132
+00:14:32,000 --> 00:14:35,000
+It's all good news and.
+
+133
+00:14:35,000 --> 00:14:38,000
+We are.
+
+134
+00:14:38,000 --> 00:14:45,000
+As they say, doing the dance at the moment and trying to.
+
+135
+00:14:45,000 --> 00:14:50,000
+Express our value as an organization.
+
+136
+00:14:50,000 --> 00:14:58,000
+Okay, so there are a few things that naturally come up when when funders.
+
+137
+00:14:58,000 --> 00:15:11,000
+Punders and sponsors engage with us and it's the the question of open source and our open source bona fide is and our purity to the open source way.
+
+138
+00:15:11,000 --> 00:15:16,000
+And frankly, that's that's something we're debating internally.
+
+139
+00:15:16,000 --> 00:15:22,000
+We're a community of organizer of of of of developers.
+
+140
+00:15:22,000 --> 00:15:31,000
+Community of critical thinkers and I think that the community is the value that we have.
+
+141
+00:15:31,000 --> 00:15:34,000
+Yeah, we're developing code as well.
+
+142
+00:15:34,000 --> 00:15:38,000
+Anyone has access to the code that codes available in GitHub.
+
+143
+00:15:38,000 --> 00:15:43,000
+You don't even have to sign a membership form.
+
+144
+00:15:43,000 --> 00:15:48,000
+I'm trying to explain this to.
+
+145
+00:15:48,000 --> 00:15:51,000
+A wide variety of individuals.
+
+146
+00:15:51,000 --> 00:15:57,000
+I explain it and I think Debbie is also written something on this.
+
+147
+00:15:57,000 --> 00:15:59,000
+That.
+
+148
+00:15:59,000 --> 00:16:03,000
+Open source is like an open recipe for a meal.
+
+149
+00:16:03,000 --> 00:16:05,000
+I'm going to show you this.
+
+150
+00:16:05,000 --> 00:16:08,000
+This is a this is a cookbook.
+
+151
+00:16:08,000 --> 00:16:12,000
+This cookbook was our family cookbook.
+
+152
+00:16:13,000 --> 00:16:17,000
+Our family cookbook that we developed during lockdown.
+
+153
+00:16:17,000 --> 00:16:20,000
+It was a family lockdown project.
+
+154
+00:16:20,000 --> 00:16:27,000
+And we got together the the Russell family the diaspora spread all over the world.
+
+155
+00:16:27,000 --> 00:16:33,000
+During lockdown, we had zoom calls and we decided to share our family recipes.
+
+156
+00:16:33,000 --> 00:16:37,000
+And in the sharing of the recipes, these recipes sometimes were held very privately.
+
+157
+00:16:37,000 --> 00:16:43,000
+And we decided to share them and people then posted refinements to the recipes.
+
+158
+00:16:43,000 --> 00:16:50,000
+And that was great because when the recipes were originally created, maybe a century ago.
+
+159
+00:16:50,000 --> 00:16:53,000
+That was for a time.
+
+160
+00:16:53,000 --> 00:16:56,000
+And that was for a time.
+
+161
+00:16:56,000 --> 00:17:06,000
+When certain ingredients were available and as things evolved, it's important for recipes to become public and open source.
+
+162
+00:17:06,000 --> 00:17:10,000
+Okay, so that is my metaphor for open source.
+
+163
+00:17:10,000 --> 00:17:12,000
+The code is the recipe.
+
+164
+00:17:12,000 --> 00:17:14,000
+It's not the product.
+
+165
+00:17:14,000 --> 00:17:22,000
+You can go and clone the blockchain repo and get all the blockchain code.
+
+166
+00:17:22,000 --> 00:17:28,000
+It doesn't mean you have the Bitcoin network or Ethereum or any of the other.
+
+167
+00:17:28,000 --> 00:17:33,000
+Running products and services that are built on top of open source.
+
+168
+00:17:33,000 --> 00:17:38,000
+So think about it like that. Now back to the recipe metaphor.
+
+169
+00:17:38,000 --> 00:17:43,000
+The recipe for a code you might implement inside a kitchen.
+
+170
+00:17:43,000 --> 00:17:45,000
+Your kitchen's expensive.
+
+171
+00:17:45,000 --> 00:17:47,000
+You know, it's expensive to operate.
+
+172
+00:17:47,000 --> 00:17:53,000
+The fact that you've given someone your recipe doesn't mean they have access to your kitchen.
+
+173
+00:17:53,000 --> 00:17:56,000
+Okay, where are these metaphors going?
+
+174
+00:17:56,000 --> 00:17:59,000
+We've developed code for personal AI.
+
+175
+00:17:59,000 --> 00:18:06,000
+We've got three repos, maybe four repos, one covering the front end, the agent.
+
+176
+00:18:06,000 --> 00:18:11,000
+One covering the back end, the operating system.
+
+177
+00:18:11,000 --> 00:18:13,000
+We have a kitchen as well.
+
+178
+00:18:13,000 --> 00:18:15,000
+That is expensive to run.
+
+179
+00:18:15,000 --> 00:18:18,000
+You know, we're paying the AWS bills over there.
+
+180
+00:18:18,000 --> 00:18:20,000
+Doesn't mean everyone has access to it.
+
+181
+00:18:20,000 --> 00:18:24,000
+So what we've done is we've created a sign up.
+
+182
+00:18:24,000 --> 00:18:27,000
+The sign up is extremely light.
+
+183
+00:18:27,000 --> 00:18:34,000
+Just give us your email address and commit that you can work 8 hours a month on this project.
+
+184
+00:18:34,000 --> 00:18:37,000
+If not, look, go and take the code and have adding.
+
+185
+00:18:37,000 --> 00:18:41,000
+We'll even help you build the code.
+
+186
+00:18:41,000 --> 00:18:42,000
+Bologize done this.
+
+187
+00:18:42,000 --> 00:18:50,000
+Bologize helped people clone the repo and get the code running to the same level that we've got it running now.
+
+188
+00:18:50,000 --> 00:18:51,000
+The proof of concept.
+
+189
+00:18:51,000 --> 00:18:56,000
+But running in their own hardware on their own infrastructure.
+
+190
+00:18:56,000 --> 00:19:01,000
+So the membership that we ask people to sign up for is very light.
+
+191
+00:19:01,000 --> 00:19:03,000
+There's no cost first of all.
+
+192
+00:19:03,000 --> 00:19:09,000
+There's no contributor license agreement that we've asked people to sign up.
+
+193
+00:19:09,000 --> 00:19:13,000
+But like you email, and we'd like to know that you're going to stick around for a while.
+
+194
+00:19:13,000 --> 00:19:16,000
+So commit 8 hours.
+
+195
+00:19:16,000 --> 00:19:19,000
+That is the barrier to entry.
+
+196
+00:19:19,000 --> 00:19:25,000
+And so that is my metaphor for open source.
+
+197
+00:19:25,000 --> 00:19:28,000
+It comes from this family cookbook that we built.
+
+198
+00:19:28,000 --> 00:19:30,000
+You can go find it online.
+
+199
+00:19:30,000 --> 00:19:32,000
+Love letter to Lali.
+
+200
+00:19:32,000 --> 00:19:35,000
+And Ruth's posted about it.
+
+201
+00:19:35,000 --> 00:19:40,000
+I'm not meaning this to be a pitch for you to go and buy the cookbook.
+
+202
+00:19:40,000 --> 00:19:42,000
+I'm selling it in a cat.
+
+203
+00:19:42,000 --> 00:19:43,000
+Okay.
+
+204
+00:19:43,000 --> 00:19:47,000
+Open source is open recipe.
+
+205
+00:19:47,000 --> 00:19:48,000
+It's not free food.
+
+206
+00:19:48,000 --> 00:19:53,000
+It doesn't mean that you can come to my kitchen and cook.
+
+207
+00:19:53,000 --> 00:19:59,000
+It doesn't mean that when I cook it or when you cook it, I can come to your house and city or table.
+
+208
+00:19:59,000 --> 00:20:08,000
+It all, it allows you to take the recipe and all the recipes and go and open up a restaurant and sell it.
+
+209
+00:20:08,000 --> 00:20:11,000
+That's also fine.
+
+210
+00:20:11,000 --> 00:20:17,000
+If we choose to open up a restaurant, then we can charge you entrance.
+
+211
+00:20:17,000 --> 00:20:19,000
+And we're going to charge you like everyone else.
+
+212
+00:20:19,000 --> 00:20:21,000
+You might have the recipe.
+
+213
+00:20:21,000 --> 00:20:22,000
+You might have refined the recipe.
+
+214
+00:20:22,000 --> 00:20:25,000
+We might be using your refinements to the recipe.
+
+215
+00:20:25,000 --> 00:20:27,000
+But so that is the metaphor.
+
+216
+00:20:27,000 --> 00:20:31,000
+I hope that is clear in everyone's mind.
+
+217
+00:20:31,000 --> 00:20:35,000
+Now, what is it that quiet is building?
+
+218
+00:20:35,000 --> 00:20:37,000
+Quiet is building that recipe.
+
+219
+00:20:37,000 --> 00:20:38,000
+Okay. Great.
+
+220
+00:20:38,000 --> 00:20:41,000
+But we also are running it.
+
+221
+00:20:41,000 --> 00:20:45,000
+And what is emerging out of this?
+
+222
+00:20:45,000 --> 00:21:00,000
+And there's some fantastic work going on with, I think, Brian Ragazzi is exploring community inference.
+
+223
+00:21:00,000 --> 00:21:05,000
+We've got several initiatives looking at community storage.
+
+224
+00:21:05,000 --> 00:21:07,000
+Where is your personal AI going to be still?
+
+225
+00:21:07,000 --> 00:21:10,000
+Where is your personal information going to be stored?
+
+226
+00:21:10,000 --> 00:21:13,000
+And so we're looking at the solid protocol.
+
+227
+00:21:13,000 --> 00:21:17,000
+But there are other protocols that are in play.
+
+228
+00:21:17,000 --> 00:21:21,000
+There's the Apache ozone storage network.
+
+229
+00:21:21,000 --> 00:21:24,000
+And there is, there are a number of others.
+
+230
+00:21:24,000 --> 00:21:26,000
+So that is part of the discussion.
+
+231
+00:21:26,000 --> 00:21:29,000
+So we're starting to see quite as a layered network.
+
+232
+00:21:29,000 --> 00:21:33,000
+On top of the internet, imagine a storage fabric.
+
+233
+00:21:33,000 --> 00:21:37,000
+On top of that, a community inference fabric.
+
+234
+00:21:37,000 --> 00:21:42,000
+And then on top of that, the intent casting network.
+
+235
+00:21:42,000 --> 00:21:48,000
+This is the implementation of DocSoul's book, The Intention Economy.
+
+236
+00:21:48,000 --> 00:22:00,000
+Okay. And that network would be running standard protocols like the IEEE P-72 protocol.
+
+237
+00:22:00,000 --> 00:22:07,000
+And hopefully the back end protocol doesn't look like our speaker is going to join us today.
+
+238
+00:22:07,000 --> 00:22:09,000
+So that's why I'm waffling on.
+
+239
+00:22:09,000 --> 00:22:13,000
+And if he does, then great. Okay. You might have his 10 minutes.
+
+240
+00:22:13,000 --> 00:22:17,000
+But, um, Suji Nair was going to be on today talking about the back end protocol,
+
+241
+00:22:17,000 --> 00:22:25,000
+which is this, um, possible contenter for, um, implementing the intent network.
+
+242
+00:22:25,000 --> 00:22:30,000
+So the value is not in the code. The value is in the network.
+
+243
+00:22:30,000 --> 00:22:33,000
+You can go take the blockchain code.
+
+244
+00:22:33,000 --> 00:22:37,000
+Build that. It doesn't mean you have the bitcoin network.
+
+245
+00:22:37,000 --> 00:22:43,000
+So think about it like that. Be free with sharing the code.
+
+246
+00:22:43,000 --> 00:22:48,000
+Don't worry about that. Don't worry about people coming in and picking the code in.
+
+247
+00:22:48,000 --> 00:22:51,000
+And, uh, and, and taking it off for themselves.
+
+248
+00:22:51,000 --> 00:22:59,000
+That, that shouldn't concern us. Um, I like the fact some, some license protocols say that if a, um,
+
+249
+00:22:59,000 --> 00:23:04,000
+if a third party that takes the code, make some, um, improvement,
+
+250
+00:23:04,000 --> 00:23:08,000
+they should feed that back. Yes, that's, that's great.
+
+251
+00:23:08,000 --> 00:23:12,000
+But that shouldn't be a stipulation.
+
+252
+00:23:12,000 --> 00:23:17,000
+I think, um, uh, community is, is what is important.
+
+253
+00:23:17,000 --> 00:23:23,000
+And that's what lives on top of the, the infrastructure network.
+
+254
+00:23:23,000 --> 00:23:31,000
+So look, I've ran it on there a bit, um, and, and, and hoping that, um,
+
+255
+00:23:32,000 --> 00:23:38,000
+such it would, would, would turn up. Um, I think what we should do is move, uh,
+
+256
+00:23:38,000 --> 00:23:46,000
+the, um, the, uh, voices, the new member voices up and, uh, and, and go straight there.
+
+257
+00:23:46,000 --> 00:23:48,000
+And then, uh, we can, we can carry on.
+
+258
+00:23:48,000 --> 00:23:52,000
+And if he shows up, we can always bring him into the next call as well.
+
+259
+00:23:52,000 --> 00:23:54,000
+Absolutely. Yeah.
+
+260
+00:23:54,000 --> 00:23:58,000
+Okay. So, so back to you, Debbie.
+
+261
+00:23:58,000 --> 00:24:03,000
+I just wanted to say something that, um, there's some of us here who are new to the open source community
+
+262
+00:24:03,000 --> 00:24:08,000
+and we're learning how it works. And that's what I wrote, what I wrote.
+
+263
+00:24:08,000 --> 00:24:13,000
+So, you know, a little bit of patience until we understand how it all works,
+
+264
+00:24:13,000 --> 00:24:19,000
+but eventually we'll all come together. Um, and, you know, Carson has shared some interesting
+
+265
+00:24:19,000 --> 00:24:24,000
+links to read about it. I just put it out there because it's sort of like learning the basics of it.
+
+266
+00:24:24,000 --> 00:24:29,000
+And it explains it also as well. And so, you know, they want to share the link.
+
+267
+00:24:29,000 --> 00:24:36,000
+That's fine. And new voices. Thank you, Riza. By the way, for putting it out there because, you know, thanks.
+
+268
+00:24:36,000 --> 00:24:39,000
+Uh, new voices.
+
+269
+00:24:39,000 --> 00:24:44,000
+I hope me out with this because, you know, it is every single Friday. Um,
+
+270
+00:24:44,000 --> 00:24:50,000
+if you are new, please raise your hand. So we can start calling on you and ask that you introduce yourself.
+
+271
+00:24:50,000 --> 00:24:56,000
+Tell us a little bit, you know, for a minute while you're here, what would you like to accomplish?
+
+272
+00:24:56,000 --> 00:25:03,000
+So, are, thank you, um, your turn.
+
+273
+00:25:03,000 --> 00:25:11,000
+Hey, good morning, everyone. It's probably morning down there, but it's in Dubai. It's like 18 the night.
+
+274
+00:25:11,000 --> 00:25:15,000
+Sorry, 9, 9, 30 of rocks. So, I'm good evening. Whatever, whichever you prefer.
+
+275
+00:25:15,000 --> 00:25:21,000
+First of all, I really, nice meeting you all. I'm really excited joining this community.
+
+276
+00:25:21,000 --> 00:25:28,000
+I, uh, norm. I, I came in touch with the idea of Kauai through Debbie. This is my best friend.
+
+277
+00:25:28,000 --> 00:25:36,000
+And a big thank you to her to introducing me to the Kauai. And when I think about it, they probably like, yeah, this would be it.
+
+278
+00:25:36,000 --> 00:25:41,000
+Like, the way I, the way the air development is going on right now.
+
+279
+00:25:41,000 --> 00:25:54,000
+So, ability for the user to, you know, don't, the user to make the user think that they don't have to worry about the data is really going to be a big topic in the future.
+
+280
+00:25:54,000 --> 00:25:59,000
+So, we are preparing it for tomorrow right now. So, yeah, it's really good.
+
+281
+00:25:59,000 --> 00:26:06,000
+And I would love to contribute to the code and I'll do everything in my power to help you guys. Yeah, really good. Thank you.
+
+282
+00:26:06,000 --> 00:26:07,000
+Thank you.
+
+283
+00:26:07,000 --> 00:26:08,000
+Hi.
+
+284
+00:26:08,000 --> 00:26:10,000
+Thanks, Homes.
+
+285
+00:26:11,000 --> 00:26:13,000
+Um, was next, Ben Gold.
+
+286
+00:26:15,000 --> 00:26:26,000
+Hello, everybody. I am an AI consultant on based out of Dallas. I've known Reza through a common friend Darren who's also on this call.
+
+287
+00:26:26,000 --> 00:26:33,000
+And what I do is I consult with different organizations on how to deploy responsible and ethical AI.
+
+288
+00:26:33,000 --> 00:26:39,000
+So, I work with high with schools, universities as well with SaaS companies, startups.
+
+289
+00:26:39,000 --> 00:26:52,000
+And the area that's really interesting is that I believe private AI is going to be something that every organization will need that is either for privacy and for ethics.
+
+290
+00:26:52,000 --> 00:26:59,000
+There are a lot of organizations where people are having their employees. They go get a personal chat GPT account.
+
+291
+00:26:59,000 --> 00:27:08,000
+They leak company information into a private account. And it's really important for organizations to be able to leverage generative AI.
+
+292
+00:27:08,000 --> 00:27:14,000
+But in a way that is in compliance with company policies. And so that's what I'm really excited about.
+
+293
+00:27:14,000 --> 00:27:25,000
+I think there's a lot of commercial uses because I believe every organization needs to have a secure private generative AI capability. And this is one of the ways to do that.
+
+294
+00:27:25,000 --> 00:27:32,000
+Thank you, Ben. Inman, you and I have something in common that my middle name is also, yeah, L.
+
+295
+00:27:32,000 --> 00:27:36,000
+So, that's very cool. Yes, it is.
+
+296
+00:27:36,000 --> 00:27:46,000
+Okay, so my name is Imanya Al-Shafir. I'm a college student at UC Santa Cruz. I was invited by Toby and I also know Carson.
+
+297
+00:27:46,000 --> 00:28:01,000
+I'm your student at UC Santa Cruz. Sorry about that. And yeah, I am in President of our cruise hacks as well as I am doing a startup, which is pretty cool involved in health and medicine. So, yeah, happy to be here.
+
+298
+00:28:01,000 --> 00:28:07,000
+Thank you. We're happy to have you.
+
+299
+00:28:07,000 --> 00:28:09,000
+And.
+
+300
+00:28:10,000 --> 00:28:19,000
+You're muted. Prussian. Hi. So, I joined recently and I'm getting up to the speed trying to understand.
+
+301
+00:28:19,000 --> 00:28:24,000
+I tried to deploy the code locally had some issues centered equals to Sam.
+
+302
+00:28:24,000 --> 00:28:37,000
+But overall intention is to learn from here, possibly contribute some good ideas, keep thinking and you know see how it walks out. I'm very excited about the quiet bullet.
+
+303
+00:28:37,000 --> 00:28:41,000
+Thanks, Prussian.
+
+304
+00:28:41,000 --> 00:28:43,000
+And.
+
+305
+00:28:43,000 --> 00:28:45,000
+And.
+
+306
+00:28:45,000 --> 00:28:47,000
+And.
+
+307
+00:28:47,000 --> 00:28:49,000
+And.
+
+308
+00:28:49,000 --> 00:28:52,000
+And.
+
+309
+00:28:52,000 --> 00:28:55,000
+And.
+
+310
+00:28:55,000 --> 00:28:58,000
+And.
+
+311
+00:28:58,000 --> 00:29:00,000
+And.
+
+312
+00:29:00,000 --> 00:29:03,000
+Andique.
+
+313
+00:29:03,000 --> 00:29:06,000
+And.
+
+314
+00:29:06,000 --> 00:29:07,000
+And I'm going to talk about this.
+
+315
+00:29:07,000 --> 00:29:17,000
+And do all their part and let's keep pushing you all excited excited excited excited excited. Thank you. Tell me for having me here and get me in the loop from a few bucks back. Thank you.
+
+316
+00:29:17,000 --> 00:29:19,000
+So, excited. That's the full McCongrishman.
+
+317
+00:29:19,000 --> 00:29:22,000
+Coins a whole. Thank you so much for being on our call. Thanks.
+
+318
+00:29:22,000 --> 00:29:24,000
+Coins.
+
+319
+00:29:24,000 --> 00:29:26,000
+And.
+
+320
+00:29:26,000 --> 00:29:28,000
+And it's got a whole lot of money and Jeff.
+
+321
+00:29:28,000 --> 00:29:30,000
+So that's a good right.
+
+322
+00:29:30,000 --> 00:29:31,000
+Right.
+
+323
+00:29:31,000 --> 00:29:33,000
+Great.
+
+324
+00:29:33,000 --> 00:29:35,000
+And I believe Adam.
+
+325
+00:29:36,000 --> 00:29:38,000
+I think.
+
+326
+00:29:38,000 --> 00:29:41,000
+Yeah, we did.
+
+327
+00:29:41,000 --> 00:29:44,000
+You're.
+
+328
+00:29:44,000 --> 00:29:45,000
+You're.
+
+329
+00:29:45,000 --> 00:29:47,000
+You're.
+
+330
+00:29:47,000 --> 00:29:49,000
+You're.
+
+331
+00:29:49,000 --> 00:29:50,000
+You're.
+
+332
+00:29:50,000 --> 00:29:51,000
+So.
+
+333
+00:29:51,000 --> 00:29:53,000
+Adam Walker.
+
+334
+00:29:53,000 --> 00:29:59,000
+Recently moves the very about 11 months ago was invited to the meeting by Toby.
+
+335
+00:29:59,000 --> 00:30:04,000
+I work for JP Morgan. I work with nonprofits. So just happy to be here as a
+
+336
+00:30:04,000 --> 00:30:07,000
+fly on the wall to see if you guys are developing.
+
+337
+00:30:07,000 --> 00:30:14,000
+A lot of which resonates and hope to learn.
+
+338
+00:30:14,000 --> 00:30:15,000
+Thank you.
+
+339
+00:30:15,000 --> 00:30:16,000
+I don't.
+
+340
+00:30:16,000 --> 00:30:18,000
+Thanks for showing up. Adam.
+
+341
+00:30:18,000 --> 00:30:19,000
+Appreciate you.
+
+342
+00:30:19,000 --> 00:30:21,000
+Me too.
+
+343
+00:30:21,000 --> 00:30:23,000
+And last.
+
+344
+00:30:23,000 --> 00:30:25,000
+I won't not know if it's last but.
+
+345
+00:30:25,000 --> 00:30:29,000
+Rafael.
+
+346
+00:30:29,000 --> 00:30:30,000
+Hi, everybody.
+
+347
+00:30:30,000 --> 00:30:31,000
+I have the pleasure of.
+
+348
+00:30:31,000 --> 00:30:33,000
+I mean, he was a.
+
+349
+00:30:33,000 --> 00:30:34,000
+A data con.
+
+350
+00:30:34,000 --> 00:30:35,000
+A.
+
+351
+00:30:35,000 --> 00:30:38,000
+LA event last year where he was a keynote speaker.
+
+352
+00:30:38,000 --> 00:30:40,000
+Where he absolutely crashed by the way.
+
+353
+00:30:40,000 --> 00:30:41,000
+He is absolutely wonderful.
+
+354
+00:30:41,000 --> 00:30:44,000
+And that's how I got involved.
+
+355
+00:30:44,000 --> 00:30:47,000
+Actually got lost a little bit because I just been caught up.
+
+356
+00:30:47,000 --> 00:30:48,000
+I'm a.
+
+357
+00:30:48,000 --> 00:30:49,000
+I'm a.
+
+358
+00:30:49,000 --> 00:30:50,000
+I'm a professor at USC.
+
+359
+00:30:50,000 --> 00:30:51,000
+And I'm a.
+
+360
+00:30:51,000 --> 00:30:53,000
+And actually just recently got a grant.
+
+361
+00:30:53,000 --> 00:30:56,000
+To from it's an a is called a a.
+
+362
+00:30:56,000 --> 00:30:57,000
+I spark grant.
+
+363
+00:30:58,000 --> 00:31:00,000
+Which is the.
+
+364
+00:31:00,000 --> 00:31:07,000
+The Edinburgh school and the USC cinematic school come together and try to connect AI and storytelling.
+
+365
+00:31:07,000 --> 00:31:15,000
+So I'm doing a project on AI use cases around coaching, which obviously a lot of privacy issues there.
+
+366
+00:31:15,000 --> 00:31:21,000
+So very interesting to see how I can contribute to this community and thank you for the effort.
+
+367
+00:31:21,000 --> 00:31:24,000
+Thanks, Rafael.
+
+368
+00:31:25,000 --> 00:31:27,000
+Thank you for hosting us again.
+
+369
+00:31:29,000 --> 00:31:31,000
+Yeah, thank you.
+
+370
+00:31:31,000 --> 00:31:34,000
+Yeah, the data con was good.
+
+371
+00:31:34,000 --> 00:31:35,000
+Yeah.
+
+372
+00:31:35,000 --> 00:31:38,000
+Actually on that note, we are working with data con.
+
+373
+00:31:38,000 --> 00:31:41,000
+I think USC said they can't host them this year.
+
+374
+00:31:41,000 --> 00:31:44,000
+So we're looking for another venue.
+
+375
+00:31:44,000 --> 00:31:46,000
+And I think we're going to land UCLA.
+
+376
+00:31:46,000 --> 00:31:49,000
+So in a cross town rivalry.
+
+377
+00:31:50,000 --> 00:31:54,000
+But maybe data con LA ends up at UCLA this year.
+
+378
+00:31:54,000 --> 00:32:02,000
+We're also we've got now saying offer for it to come to college of the canyons where I'm out here my wife's a professor.
+
+379
+00:32:02,000 --> 00:32:09,000
+But hey, I think it's I think it's a UCLA would be a good catch if we can land that.
+
+380
+00:32:09,000 --> 00:32:14,000
+So I.
+
+381
+00:32:15,000 --> 00:32:24,000
+I'm going to call on you. I can see there's some new members that have not spoken for a while, either not spoken or not spoken for a while.
+
+382
+00:32:24,000 --> 00:32:34,000
+So hands up because you know, you know, he's going to come your way.
+
+383
+00:32:34,000 --> 00:32:37,000
+Great.
+
+384
+00:32:38,000 --> 00:32:48,000
+And as he before you start Christian, I wonder if you'd maybe also later on give us five minutes on what's going on in the email chapter, but easy off you go.
+
+385
+00:32:48,000 --> 00:32:49,000
+Thank you.
+
+386
+00:32:49,000 --> 00:32:50,000
+Hi, everyone.
+
+387
+00:32:50,000 --> 00:32:54,000
+Early member and very interested in where we're going.
+
+388
+00:32:54,000 --> 00:33:04,000
+I'm working on an open source startup project to use the each thing to reveal our known selves to us and become a distinction engine or a self discovery mechanism.
+
+389
+00:33:04,000 --> 00:33:08,000
+I have an app and I'm working on the next prototype.
+
+390
+00:33:08,000 --> 00:33:13,000
+My approach my concern right now for this platform is how do we know.
+
+391
+00:33:13,000 --> 00:33:25,000
+Like is there a guarantee that we're never going to pull an open AI on our user base, you know, we're starting out as open source will we stay open source because my project will remain open source.
+
+392
+00:33:25,000 --> 00:33:29,000
+So if I decide to use our tools here.
+
+393
+00:33:29,000 --> 00:33:39,000
+Can I have a like is there any sort of decision or can we confidently say that we will not become close source whether we are for profit or not.
+
+394
+00:33:39,000 --> 00:33:44,000
+Is that a decision that is, you know, standing for all time or is it up for debate.
+
+395
+00:33:44,000 --> 00:33:54,000
+It's it's it's not something that is up for debate a couple of months ago we had a town hall meeting where we did debate it at that point.
+
+396
+00:33:54,000 --> 00:34:07,000
+The debates were we we posed three questions should why indulge in commercial activity second question was should quite just become a spec organization.
+
+397
+00:34:07,000 --> 00:34:11,000
+I mean just create the recipe don't create product.
+
+398
+00:34:11,000 --> 00:34:23,000
+Should quite should volunteers participate in the upside of any activity commercial activity and the the answer from the membership was yes, no yes.
+
+399
+00:34:23,000 --> 00:34:28,000
+So yes, we should indulge in commercial activity.
+
+400
+00:34:28,000 --> 00:34:40,000
+No, we should not just become a passive spec organization we should develop product and yes volunteers should participate in that commercial upside.
+
+401
+00:34:40,000 --> 00:34:51,000
+So we haven't yet actualized the wishes of the membership yet but here's here's what we don't want to do.
+
+402
+00:34:51,000 --> 00:35:01,000
+We don't want to make the same mistakes of open AI those are glaringly those are horrible mistakes they should really rename themselves closed AI.
+
+403
+00:35:01,000 --> 00:35:20,000
+I think the last open source project they had was I think's called clipper or something like that and that was like two years ago since then everything's been closed and their motive is horribly for profit and I'm surprised that the the IRA.
+
+404
+00:35:20,000 --> 00:35:46,000
+The IRA is not gone after them. I know there's a there's this is kind of a private action between Elon Musk and and then but that's a whole separate drama going on let me talk a little bit about why they they structurally broken is because they created a nonprofit and then internally they created a wholly owned for profit.
+
+405
+00:35:46,000 --> 00:35:56,000
+That then started to suck all the oxygen out of the room and started to dictate their their direction.
+
+406
+00:35:56,000 --> 00:36:07,000
+There was a battle for power you recall that and that the the the for profit motives one out.
+
+407
+00:36:07,000 --> 00:36:08,000
+Okay.
+
+408
+00:36:08,000 --> 00:36:20,000
+So well look at we're aware of that we're aware of that and I particularly have surrounded myself with advisors the board.
+
+409
+00:36:20,000 --> 00:36:35,000
+I'm sure structure that we have and the people we have on the board would first or never allow me to do anything like that I'm hoping so we need to keep ourselves honest but.
+
+410
+00:36:35,000 --> 00:36:51,000
+We have a and it's worth it worth me actually willing on this point for for a while I'm going to share and I'm going to share a slide that talks about what our governing structure looks like.
+
+411
+00:36:51,000 --> 00:36:56,000
+And it is.
+
+412
+00:36:56,000 --> 00:37:10,000
+And it's important and I'm I'm glad that you asked this question because this is this this is a question even you know the the funders are asking.
+
+413
+00:37:10,000 --> 00:37:27,000
+If we if we if we if we ally our brand to you these responses questions if we are you going to are you going to do a bait and switch so first of all the emphasis that we're putting on this is to build a movement.
+
+414
+00:37:27,000 --> 00:37:35,000
+The fact that we are executing the mission of the movement through technology is a secondary thing.
+
+415
+00:37:35,000 --> 00:37:54,000
+You know if if if we just done it through I don't know philosophizing then then maybe that it would be a different thing but the fact is we are we are executing our mission through the things we know how to do how we've identified there's a problem the problem of.
+
+416
+00:37:54,000 --> 00:37:59,000
+The problem of the population of AI by wealthy.
+
+417
+00:37:59,000 --> 00:38:17,000
+And that increase the population in itself is dangerous for industry it's dangerous for society and we we want to do something about it in the ways we know how to do because we most most of us are technologists here's the here's the governing structure.
+
+418
+00:38:17,000 --> 00:38:21,000
+Is is our membership you know people that have signed that.
+
+419
+00:38:21,000 --> 00:38:25,000
+Agreement and.
+
+420
+00:38:25,000 --> 00:38:34,000
+There's an advisory council if you elected yourself as an advisor you appointed yourself you just nominated yourself as a advisor.
+
+421
+00:38:34,000 --> 00:38:48,000
+Then you are part of this advisory council Toby morning is the head of that advisory council the business of this advisory council is to advise it's to advise the executive offices and to.
+
+422
+00:38:48,000 --> 00:38:53,000
+Create propositions that gets submitted to the board of directors.
+
+423
+00:38:53,000 --> 00:39:09,000
+The board of directors sit maybe quarterly they're currently nine people on this board so it's very difficult for it to radically sway in one direction or another this is not like a sea suite where you've got a dictatorial.
+
+424
+00:39:09,000 --> 00:39:17,000
+Executive that that rule rules the roost this there's a governing board over here and and the board.
+
+425
+00:39:17,000 --> 00:39:32,000
+He lex the offices but also guides the offices by voting on these propositions so look it's a very similar sort of try camera all you know three three house type of governing structure where we see that before.
+
+426
+00:39:32,000 --> 00:39:35,000
+And and these type of structures could.
+
+427
+00:39:35,000 --> 00:39:56,000
+Last hundreds of years I mean that that's what we see and yeah we know we know even in our own government how these things can be can fall apart and become dysfunctional and it's going to be important for us as a movement to be vigilant about that so easy I think that's a really important question.
+
+428
+00:39:57,000 --> 00:40:02,000
+The the question about.
+
+429
+00:40:02,000 --> 00:40:15,000
+The other the other guiding ambition that we have is that we want to become self sustaining and a lot of open source developments don't have that.
+
+430
+00:40:15,000 --> 00:40:25,000
+That as their guiding principle to become self sustaining so what do I mean by that I mean we don't want to continuously go cap in hand asking for donations.
+
+431
+00:40:25,000 --> 00:40:41,000
+That that many open source developments that is there means of of existence they go to corporations or donors or father foundations and they say please give us a donation so that we can continue to survive.
+
+432
+00:40:42,000 --> 00:41:01,000
+And sometimes that comes to an end and so you see a lot of open source developments brilliant code brilliant developers but the code bases are now ghost towns and GitHub is littered with that where their ghost towns where they didn't have sustainability as one of their core mission objectives.
+
+433
+00:41:02,000 --> 00:41:12,000
+We want to be sustainable in three to five years I don't want to be going cap in hand asking for charity we will not be going.
+
+434
+00:41:13,000 --> 00:41:29,000
+Right and so being that sort of pathetic charitable cause is not it doesn't make us a credible viable opposition to the monopolizing forces.
+
+435
+00:41:29,000 --> 00:41:46,000
+Now we need to be massive we need to grow our organization our community and the network should have so much value in it that the monopolizing forces actually come to us and want to become part of the network and want to adopt the network.
+
+436
+00:41:46,000 --> 00:42:12,000
+It's critically important that our guiding principles are actually built into our operating system that's why I'm I'm stickler for calling this an operating system that we building because the kernel of the operating system actually in shrines our guiding principles of self sovereignty of privacy of security but also of uplifting the individuals uplifting humanity.
+
+437
+00:42:12,000 --> 00:42:18,000
+Frankly I'm not interested in the 10x improvement for an enterprise as profitability.
+
+438
+00:42:18,000 --> 00:42:24,000
+I'm interested in the 10x improvement for individuals I want AI to make me a better me.
+
+439
+00:42:24,000 --> 00:42:39,000
+I want it to make what you want it to make you a better you if the knock on effect is you become a better employee and you're able to deliver more value for for for your company you work for fantastic I think that's going to be great.
+
+440
+00:42:39,000 --> 00:42:44,000
+A.C. that was a very long answer to a very short question I hope it didn't do it.
+
+441
+00:42:44,000 --> 00:42:45,000
+Thank you.
+
+442
+00:42:45,000 --> 00:42:57,000
+That's what I was looking for. Also what I mentioned I am a recent US citizen so I don't have a stable job. I'm looking for work and if there is a network that we have for people who are interested in my renown.
+
+443
+00:42:57,000 --> 00:42:59,000
+I'd love to know what we can do through.
+
+444
+00:43:00,000 --> 00:43:11,000
+Easy. Easy. Go to the job opportunities channel. There are a hundred plus jobs there with their hiring managers linked in contact.
+
+445
+00:43:11,000 --> 00:43:13,000
+So that's going to be great.
+
+446
+00:43:13,000 --> 00:43:15,000
+And just I want to see this.
+
+447
+00:43:15,000 --> 00:43:24,000
+If there are some really high if you're a kind of a product AI in my body is the hiring guy and magic.de.
+
+448
+00:43:24,000 --> 00:43:29,000
+They have multiple degreeces but I want to tell you the hiring guy that's over there.
+
+449
+00:43:29,000 --> 00:43:32,000
+I would say this place is hard.
+
+450
+00:43:32,000 --> 00:43:38,000
+So if you are that type of talent please reach out to me because I can with you a job.
+
+451
+00:43:38,000 --> 00:43:39,000
+Very good.
+
+452
+00:43:39,000 --> 00:43:47,000
+Okay. And A.C. he's a barrett booth. He's one of the top recruiters. He's on this on the network.
+
+453
+00:43:48,000 --> 00:43:53,000
+Heading up on Slack and just have a chat with him and see where the opportunity is.
+
+454
+00:43:53,000 --> 00:43:56,000
+Thank you so much. Very good.
+
+455
+00:43:56,000 --> 00:43:57,000
+Welcome.
+
+456
+00:43:57,000 --> 00:43:59,000
+Can you pick them in?
+
+457
+00:43:59,000 --> 00:44:01,000
+One second.
+
+458
+00:44:01,000 --> 00:44:04,000
+Barrett booth.
+
+459
+00:44:05,000 --> 00:44:10,000
+And you'll find them on Slack.
+
+460
+00:44:11,000 --> 00:44:14,000
+There we go.
+
+461
+00:44:15,000 --> 00:44:19,000
+So I'm going to go through this. I'm going to call on you.
+
+462
+00:44:19,000 --> 00:44:24,000
+I'm going to call on you.
+
+463
+00:44:24,000 --> 00:44:26,000
+Could the well actually Christian?
+
+464
+00:44:26,000 --> 00:44:39,000
+I know I know I you might not have anything prepared but it'd be great if you could just give us a few minutes from what's going on in the in the chat.
+
+465
+00:44:39,000 --> 00:44:41,000
+Yes.
+
+466
+00:44:41,000 --> 00:44:43,000
+I think you.
+
+467
+00:44:43,000 --> 00:44:53,000
+Okay. All is in evolving and as you know next week we will be for that one is over.
+
+468
+00:44:53,000 --> 00:44:55,000
+Conference in Sicily.
+
+469
+00:44:55,000 --> 00:44:57,000
+So we would be present me.
+
+470
+00:44:57,000 --> 00:44:59,000
+Riza and also A.C.
+
+471
+00:44:59,000 --> 00:45:08,000
+We will talk about AI and open science and democratization process involved.
+
+472
+00:45:08,000 --> 00:45:20,000
+So this will be a very good opportunity to to show our institution in order to let the graph in the in the in the region.
+
+473
+00:45:20,000 --> 00:45:30,000
+And I hope that this will will will have a lot of such as and we get involved with a lot of the person students and also institution.
+
+474
+00:45:30,000 --> 00:45:34,000
+So this will be very challenging.
+
+475
+00:45:34,000 --> 00:45:39,000
+And for the rest of our communities in building.
+
+476
+00:45:39,000 --> 00:45:46,000
+I want to say that next week I apologize but I cannot attend the meeting.
+
+477
+00:45:46,000 --> 00:45:58,000
+So we will move to the next week we will recover because do it to the conference I need to go one day before to prepare all and so I prefer to.
+
+478
+00:45:58,000 --> 00:46:02,000
+To move our email meeting on the next meeting.
+
+479
+00:46:02,000 --> 00:46:04,000
+Our next week sorry.
+
+480
+00:46:04,000 --> 00:46:06,000
+So all is in progress.
+
+481
+00:46:06,000 --> 00:46:08,000
+We are very strong.
+
+482
+00:46:08,000 --> 00:46:14,000
+We grow up and I am very happy to to join in this community to to give my contribution.
+
+483
+00:46:14,000 --> 00:46:19,000
+So take your is a I go back to you.
+
+484
+00:46:19,000 --> 00:46:21,000
+Thanks.
+
+485
+00:46:21,000 --> 00:46:23,000
+Okay.
+
+486
+00:46:23,000 --> 00:46:29,000
+So in in the list I see a few folks and you might have spoken already.
+
+487
+00:46:29,000 --> 00:46:34,000
+But it's it's worth it's worth speaking up again.
+
+488
+00:46:34,000 --> 00:46:39,000
+Darrell I'm going to call on you so Darrell Serant.
+
+489
+00:46:39,000 --> 00:46:44,000
+You you're you're a new member but you become quite active.
+
+490
+00:46:44,000 --> 00:46:49,000
+Perhaps you can talk about the project that that you're working on.
+
+491
+00:46:49,000 --> 00:46:50,000
+All right. Yeah.
+
+492
+00:46:50,000 --> 00:46:56,000
+So I am working on a project to explore.
+
+493
+00:46:57,000 --> 00:47:03,000
+I a new architecture that was recently released called Mamba and we're exploring it.
+
+494
+00:47:03,000 --> 00:47:06,000
+I wanted to see if there's a capabilities.
+
+495
+00:47:06,000 --> 00:47:08,000
+So let me take us that back.
+
+496
+00:47:08,000 --> 00:47:14,000
+So Mamba is a new architecture that claims to be have a little much more faster performance.
+
+497
+00:47:14,000 --> 00:47:18,000
+Inferencing performance and possibly training performance than.
+
+498
+00:47:18,000 --> 00:47:23,000
+Transformer based architecture is what like models like G.P.T.
+
+499
+00:47:23,000 --> 00:47:26,000
+Two, GPT-3, Lama, I'm kind of the more popular.
+
+500
+00:47:26,000 --> 00:47:28,000
+Like which models that are being used today.
+
+501
+00:47:28,000 --> 00:47:29,000
+That's what they're based on.
+
+502
+00:47:29,000 --> 00:47:31,000
+So I'm exploring.
+
+503
+00:47:31,000 --> 00:47:34,000
+Mamba trying to understand hard works.
+
+504
+00:47:34,000 --> 00:47:39,000
+And the goal is to hopefully build some new tools around.
+
+505
+00:47:39,000 --> 00:47:45,000
+Mamba will be take a normal neural network and transform it into a Mamba architecture.
+
+506
+00:47:45,000 --> 00:47:49,000
+So if you're interested and help me out when this endeavor.
+
+507
+00:47:50,000 --> 00:47:52,000
+Probably going to be doing some work.
+
+508
+00:47:52,000 --> 00:47:55,000
+I'm going to be doing move off like benchmarking.
+
+509
+00:47:55,000 --> 00:47:58,000
+Um, something something benchmark.
+
+510
+00:47:58,000 --> 00:48:02,000
+Uh, and just just running some experiments.
+
+511
+00:48:02,000 --> 00:48:06,000
+So if you're interested in help me out, uh, feel free to just reach out to me.
+
+512
+00:48:06,000 --> 00:48:08,000
+On Slack or just on LinkedIn.
+
+513
+00:48:08,000 --> 00:48:11,000
+I can just put my LinkedIn in the chat.
+
+514
+00:48:11,000 --> 00:48:13,000
+I want that's great.
+
+515
+00:48:13,000 --> 00:48:15,000
+Thank you so much for sharing this.
+
+516
+00:48:15,000 --> 00:48:16,000
+I've been bringing this one up for a while.
+
+517
+00:48:16,000 --> 00:48:17,000
+It is where you have to.
+
+518
+00:48:17,000 --> 00:48:19,000
+I've been using some.
+
+519
+00:48:19,000 --> 00:48:21,000
+I will connect with you only.
+
+520
+00:48:21,000 --> 00:48:22,000
+Yeah.
+
+521
+00:48:22,000 --> 00:48:23,000
+Absolutely.
+
+522
+00:48:23,000 --> 00:48:25,000
+So look, this is important.
+
+523
+00:48:25,000 --> 00:48:29,000
+Art of this, this came out of a fundamental AI research group.
+
+524
+00:48:29,000 --> 00:48:33,000
+Thanks, Darrell, for to diving in into that area.
+
+525
+00:48:33,000 --> 00:48:39,000
+Our mission is to try and get models to run to be smarter, faster and greener.
+
+526
+00:48:39,000 --> 00:48:45,000
+Um, Mamba actually claims to scale as N log N.
+
+527
+00:48:45,000 --> 00:48:48,000
+Where is existing neural networks.
+
+528
+00:48:48,000 --> 00:48:51,000
+If neural networks scale in squared.
+
+529
+00:48:51,000 --> 00:48:56,000
+And, um, so that, and log N will be would be fantastic.
+
+530
+00:48:56,000 --> 00:48:57,000
+Okay.
+
+531
+00:48:57,000 --> 00:49:03,000
+Um, the other guy who's not on the call, but, um,
+
+532
+00:49:03,000 --> 00:49:05,000
+I'm going to speak for him.
+
+533
+00:49:05,000 --> 00:49:11,000
+Metford, um, is working on a project of, um, data curation.
+
+534
+00:49:11,000 --> 00:49:14,000
+Data curation is super important in AI.
+
+535
+00:49:14,000 --> 00:49:17,000
+You know, garbage in garbage out.
+
+536
+00:49:17,000 --> 00:49:20,000
+And, um, some of the, um,
+
+537
+00:49:20,000 --> 00:49:24,000
+Um, X that's going even into our, um,
+
+538
+00:49:24,000 --> 00:49:27,000
+Rag databases is garbage, um,
+
+539
+00:49:27,000 --> 00:49:31,000
+because it comes from real time speech to text translation.
+
+540
+00:49:31,000 --> 00:49:34,000
+And so there's a job for improving that.
+
+541
+00:49:34,000 --> 00:49:38,000
+There's actually a job for, um, curation of that data.
+
+542
+00:49:38,000 --> 00:49:42,000
+Um, last night on the, um, the meeting with, um,
+
+543
+00:49:42,000 --> 00:49:45,000
+at Accenture, um, the speaker, the other speaker was,
+
+544
+00:49:45,000 --> 00:49:49,000
+talked a lot about data curation and mechanisms for doing that.
+
+545
+00:49:49,000 --> 00:49:52,000
+And Medford is working on a project, um,
+
+546
+00:49:52,000 --> 00:49:53,000
+to do that.
+
+547
+00:49:53,000 --> 00:49:56,000
+And if anyone's interested in participating on that project,
+
+548
+00:49:56,000 --> 00:49:58,000
+contact Medford.
+
+549
+00:49:58,000 --> 00:49:59,000
+Great.
+
+550
+00:49:59,000 --> 00:50:00,000
+Okay.
+
+551
+00:50:00,000 --> 00:50:02,000
+I'm seeing a few others.
+
+552
+00:50:02,000 --> 00:50:06,000
+Look, um, Darren Warner has not spoken for a while.
+
+553
+00:50:06,000 --> 00:50:08,000
+Darren, I want you to, maybe,
+
+554
+00:50:08,000 --> 00:50:11,000
+hop on and just give us an update on what you're working on.
+
+555
+00:50:11,000 --> 00:50:13,000
+Here is a, um, yeah.
+
+556
+00:50:13,000 --> 00:50:14,000
+I apologize.
+
+557
+00:50:14,000 --> 00:50:17,000
+I've been, um, you know, crazy busy with my day job recently.
+
+558
+00:50:17,000 --> 00:50:23,000
+So don't have a huge update, but I think since the last time, um,
+
+559
+00:50:23,000 --> 00:50:26,000
+the, I spoke on here, um,
+
+560
+00:50:26,000 --> 00:50:30,000
+we got the, um, the three AI engines, uh,
+
+561
+00:50:30,000 --> 00:50:31,000
+uh, Bruce CDU,
+
+562
+00:50:31,000 --> 00:50:33,000
+at a fact actually moved over to the, uh,
+
+563
+00:50:33,000 --> 00:50:36,000
+from your personal account.
+
+564
+00:50:36,000 --> 00:50:38,000
+The quiet org, um,
+
+565
+00:50:38,000 --> 00:50:39,000
+AWS accounts.
+
+566
+00:50:40,000 --> 00:50:43,000
+Um, it's still largely a manual setup.
+
+567
+00:50:43,000 --> 00:50:45,000
+We've got the framework, uh,
+
+568
+00:50:45,000 --> 00:50:48,000
+the cloud automation itself is automated,
+
+569
+00:50:48,000 --> 00:50:51,000
+but the installation of the software is still very much a manual process.
+
+570
+00:50:51,000 --> 00:50:54,000
+Um, as soon as I can find some free time,
+
+571
+00:50:54,000 --> 00:50:56,000
+I want to, uh, try and assist with that.
+
+572
+00:50:56,000 --> 00:50:57,000
+And, uh, you know,
+
+573
+00:50:57,000 --> 00:51:00,000
+I've always been an advocate of, uh,
+
+574
+00:51:00,000 --> 00:51:04,000
+you know, hands off what they call CICD environments.
+
+575
+00:51:04,000 --> 00:51:05,000
+So I hope we can get there.
+
+576
+00:51:05,000 --> 00:51:08,000
+And I hope we can get to a point where, um,
+
+577
+00:51:08,000 --> 00:51:10,000
+anyone can just, you know,
+
+578
+00:51:10,000 --> 00:51:12,000
+if they've got a powerful enough,
+
+579
+00:51:12,000 --> 00:51:13,000
+probably gaming computer,
+
+580
+00:51:13,000 --> 00:51:16,000
+whatever it might be as just to be able to download and
+
+581
+00:51:16,000 --> 00:51:18,000
+install software and start playing around with it and stuff.
+
+582
+00:51:18,000 --> 00:51:20,000
+I'm certainly really looking forward to do that.
+
+583
+00:51:20,000 --> 00:51:21,000
+And I'm going to get,
+
+584
+00:51:21,000 --> 00:51:22,000
+I'm going to get my, uh, uh,
+
+585
+00:51:22,000 --> 00:51:24,000
+uh, my son's interested in,
+
+586
+00:51:24,000 --> 00:51:25,000
+in building PCs.
+
+587
+00:51:25,000 --> 00:51:26,000
+So I think I,
+
+588
+00:51:26,000 --> 00:51:28,000
+I'm going to get him involved in,
+
+589
+00:51:28,000 --> 00:51:30,000
+in building me something that's capable to,
+
+590
+00:51:30,000 --> 00:51:32,000
+of, of running these engines.
+
+591
+00:51:32,000 --> 00:51:33,000
+Fantastic.
+
+592
+00:51:33,000 --> 00:51:34,000
+And, and, and look, Darren,
+
+593
+00:51:34,000 --> 00:51:36,000
+I'm already promising the,
+
+594
+00:51:36,000 --> 00:51:39,000
+the colleges and universities that I'm speaking with our IT department.
+
+595
+00:51:39,000 --> 00:51:40,000
+So I say, hey, what do we need?
+
+596
+00:51:40,000 --> 00:51:41,000
+Well, is this machine yet?
+
+597
+00:51:41,000 --> 00:51:43,000
+But how do we, how do we run out of this?
+
+598
+00:51:43,000 --> 00:51:45,000
+Don't worry, there's going to be a one click
+
+599
+00:51:45,000 --> 00:51:47,000
+DevOps recipe that, uh,
+
+600
+00:51:47,000 --> 00:51:48,000
+you're going to be able to click it.
+
+601
+00:51:48,000 --> 00:51:52,000
+It's going to light it up either in your infrastructure or in,
+
+602
+00:51:52,000 --> 00:51:54,000
+in your AWS account.
+
+603
+00:51:54,000 --> 00:51:58,000
+So let's, let's make it so, um,
+
+604
+00:51:58,000 --> 00:51:59,000
+great.
+
+605
+00:51:59,000 --> 00:52:00,000
+So, um,
+
+606
+00:52:00,000 --> 00:52:03,000
+the other guy I'm going to call on is Brian Ragazzi.
+
+607
+00:52:04,000 --> 00:52:06,000
+Um, let me, let me tell you, um,
+
+608
+00:52:06,000 --> 00:52:07,000
+first of all,
+
+609
+00:52:07,000 --> 00:52:10,000
+what Darren's describing is what we want to do for the base of phase,
+
+610
+00:52:10,000 --> 00:52:11,000
+where, um,
+
+611
+00:52:11,000 --> 00:52:13,000
+there is a,
+
+612
+00:52:13,000 --> 00:52:15,000
+a server,
+
+613
+00:52:15,000 --> 00:52:17,000
+uh, that's going to run the agents,
+
+614
+00:52:17,000 --> 00:52:19,000
+and, um,
+
+615
+00:52:19,000 --> 00:52:21,000
+that, that's great.
+
+616
+00:52:21,000 --> 00:52:24,000
+But we're thinking of what is the network going to look like,
+
+617
+00:52:24,000 --> 00:52:25,000
+beyond that.
+
+618
+00:52:25,000 --> 00:52:29,000
+And we anticipate this fabric,
+
+619
+00:52:29,000 --> 00:52:30,000
+um,
+
+620
+00:52:30,000 --> 00:52:31,000
+as I said, a storage fabric,
+
+621
+00:52:31,000 --> 00:52:33,000
+a community inference fabric,
+
+622
+00:52:33,000 --> 00:52:36,000
+and then the intent casting network on top of it.
+
+623
+00:52:36,000 --> 00:52:38,000
+But what I, if Brian,
+
+624
+00:52:38,000 --> 00:52:39,000
+sorry to, um,
+
+625
+00:52:39,000 --> 00:52:40,000
+put you on the spot,
+
+626
+00:52:40,000 --> 00:52:45,000
+but I wonder if you just speak up and talk about the community inference fabric.
+
+627
+00:52:45,000 --> 00:52:47,000
+Sure.
+
+628
+00:52:47,000 --> 00:52:48,000
+Uh, okay.
+
+629
+00:52:48,000 --> 00:52:49,000
+Um,
+
+630
+00:52:49,000 --> 00:52:50,000
+so, uh,
+
+631
+00:52:50,000 --> 00:52:51,000
+we're, uh,
+
+632
+00:52:51,000 --> 00:52:58,000
+we're working on sort of doing a proof of concept of using a technology called,
+
+633
+00:52:58,000 --> 00:52:59,000
+uh,
+
+634
+00:52:59,000 --> 00:53:01,000
+well, so there's already something out there called pedals.
+
+635
+00:53:01,000 --> 00:53:03,000
+You can see it at pedals.dev,
+
+636
+00:53:03,000 --> 00:53:06,000
+where they have a number of what they call swarms,
+
+637
+00:53:06,000 --> 00:53:08,000
+where basically you can take your,
+
+638
+00:53:08,000 --> 00:53:09,000
+your, uh,
+
+639
+00:53:09,000 --> 00:53:13,000
+GPU and make it participate in a larger,
+
+640
+00:53:13,000 --> 00:53:15,000
+in a larger group.
+
+641
+00:53:15,000 --> 00:53:16,000
+Uh,
+
+642
+00:53:16,000 --> 00:53:17,000
+there's been,
+
+643
+00:53:17,000 --> 00:53:20,000
+there's been a lot of advancements in being able to distribute,
+
+644
+00:53:20,000 --> 00:53:24,000
+the processing of a model over a bunch of different GPUs,
+
+645
+00:53:24,000 --> 00:53:27,000
+instead of just having it to run it on one gigantic GPU that forces you to do.
+
+646
+00:53:27,000 --> 00:53:30,000
+That forces you to use like the big expensive cloud providers and so on.
+
+647
+00:53:30,000 --> 00:53:32,000
+Uh,
+
+648
+00:53:32,000 --> 00:53:36,000
+so they've got these swarms and you can connect to them.
+
+649
+00:53:36,000 --> 00:53:37,000
+Uh,
+
+650
+00:53:37,000 --> 00:53:41,000
+and lend your GPU to processing of,
+
+651
+00:53:41,000 --> 00:53:42,000
+you know,
+
+652
+00:53:42,000 --> 00:53:43,000
+inference of models,
+
+653
+00:53:43,000 --> 00:53:44,000
+also training,
+
+654
+00:53:44,000 --> 00:53:45,000
+uh,
+
+655
+00:53:45,000 --> 00:53:47,000
+that's another later issue that we can get into that,
+
+656
+00:53:47,000 --> 00:53:49,000
+potentially is even more exciting.
+
+657
+00:53:49,000 --> 00:53:50,000
+Uh,
+
+658
+00:53:50,000 --> 00:53:51,000
+and,
+
+659
+00:53:51,000 --> 00:53:52,000
+um,
+
+660
+00:53:52,000 --> 00:53:53,000
+so under the hood,
+
+661
+00:53:53,000 --> 00:53:54,000
+it uses a,
+
+662
+00:53:54,000 --> 00:53:55,000
+uh,
+
+663
+00:53:55,000 --> 00:53:56,000
+it uses a technology called hive mind.
+
+664
+00:53:56,000 --> 00:53:59,000
+And that's something you can pretty easily find out there as well.
+
+665
+00:53:59,000 --> 00:54:00,000
+Uh,
+
+666
+00:54:00,000 --> 00:54:01,000
+and that's just a,
+
+667
+00:54:01,000 --> 00:54:02,000
+uh,
+
+668
+00:54:02,000 --> 00:54:04,000
+library that'll work with pie torch,
+
+669
+00:54:04,000 --> 00:54:05,000
+uh,
+
+670
+00:54:05,000 --> 00:54:06,000
+uh,
+
+671
+00:54:06,000 --> 00:54:07,000
+and some others.
+
+672
+00:54:07,000 --> 00:54:09,000
+And allows you to,
+
+673
+00:54:09,000 --> 00:54:10,000
+uh,
+
+674
+00:54:10,000 --> 00:54:13,000
+to federate together a bunch of systems.
+
+675
+00:54:13,000 --> 00:54:14,000
+Um,
+
+676
+00:54:14,000 --> 00:54:17,000
+so what we're looking to do is to create a,
+
+677
+00:54:17,000 --> 00:54:18,000
+uh,
+
+678
+00:54:18,000 --> 00:54:19,000
+you know,
+
+679
+00:54:19,000 --> 00:54:20,000
+the,
+
+680
+00:54:20,000 --> 00:54:21,000
+the equivalent of a swarm for a quiet,
+
+681
+00:54:21,000 --> 00:54:22,000
+where,
+
+682
+00:54:22,000 --> 00:54:23,000
+you know,
+
+683
+00:54:23,000 --> 00:54:24,000
+anybody who,
+
+684
+00:54:24,000 --> 00:54:25,000
+who wants to participate,
+
+685
+00:54:26,000 --> 00:54:27,000
+and, and, and, and,
+
+686
+00:54:27,000 --> 00:54:28,000
+as a group,
+
+687
+00:54:28,000 --> 00:54:32,000
+we probably have a lot of computing power available.
+
+688
+00:54:32,000 --> 00:54:33,000
+So that,
+
+689
+00:54:33,000 --> 00:54:35,000
+that opens up a lot of possibilities for,
+
+690
+00:54:35,000 --> 00:54:37,000
+for the organization.
+
+691
+00:54:37,000 --> 00:54:38,000
+Great.
+
+692
+00:54:38,000 --> 00:54:39,000
+Thank you so much, Brian.
+
+693
+00:54:39,000 --> 00:54:40,000
+Okay.
+
+694
+00:54:40,000 --> 00:54:42,000
+Um,
+
+695
+00:54:42,000 --> 00:54:44,000
+and,
+
+696
+00:54:44,000 --> 00:54:46,000
+we,
+
+697
+00:54:46,000 --> 00:54:47,000
+uh,
+
+698
+00:54:47,000 --> 00:54:49,000
+we had at the peak,
+
+699
+00:54:49,000 --> 00:54:51,000
+57 members.
+
+700
+00:54:51,000 --> 00:54:52,000
+That's really good.
+
+701
+00:54:52,000 --> 00:54:53,000
+Um,
+
+702
+00:54:54,000 --> 00:54:56,000
+I'm going to, I'm going to,
+
+703
+00:54:56,000 --> 00:54:59,000
+let's see if doc doc you want to speak up.
+
+704
+00:54:59,000 --> 00:55:01,000
+Um,
+
+705
+00:55:01,000 --> 00:55:02,000
+we,
+
+706
+00:55:02,000 --> 00:55:03,000
+um,
+
+707
+00:55:03,000 --> 00:55:05,000
+let's,
+
+708
+00:55:05,000 --> 00:55:06,000
+okay.
+
+709
+00:55:06,000 --> 00:55:08,000
+So anybody that wants to work on,
+
+710
+00:55:08,000 --> 00:55:09,000
+um,
+
+711
+00:55:09,000 --> 00:55:11,000
+with on this with Brian reach out to Brian.
+
+712
+00:55:11,000 --> 00:55:13,000
+There is, in fact,
+
+713
+00:55:13,000 --> 00:55:14,000
+um,
+
+714
+00:55:14,000 --> 00:55:15,000
+a,
+
+715
+00:55:15,000 --> 00:55:17,000
+a Slack channel called distributed computing,
+
+716
+00:55:17,000 --> 00:55:18,000
+but,
+
+717
+00:55:18,000 --> 00:55:19,000
+um,
+
+718
+00:55:19,000 --> 00:55:20,000
+probably,
+
+719
+00:55:21,000 --> 00:55:22,000
+um,
+
+720
+00:55:22,000 --> 00:55:23,000
+um,
+
+721
+00:55:23,000 --> 00:55:24,000
+um,
+
+722
+00:55:24,000 --> 00:55:26,000
+actually set up a work group around this.
+
+723
+00:55:26,000 --> 00:55:27,000
+I think it's,
+
+724
+00:55:27,000 --> 00:55:28,000
+um,
+
+725
+00:55:28,000 --> 00:55:29,000
+it's more important.
+
+726
+00:55:29,000 --> 00:55:31,000
+And then just just having a discussion group,
+
+727
+00:55:31,000 --> 00:55:33,000
+and we'll probably set up,
+
+728
+00:55:33,000 --> 00:55:34,000
+um,
+
+729
+00:55:34,000 --> 00:55:35,000
+um,
+
+730
+00:55:35,000 --> 00:55:36,000
+work group meetings.
+
+731
+00:55:36,000 --> 00:55:37,000
+Um,
+
+732
+00:55:37,000 --> 00:55:39,000
+let's see if,
+
+733
+00:55:39,000 --> 00:55:40,000
+okay,
+
+734
+00:55:40,000 --> 00:55:42,000
+you're in a place where you can talk,
+
+735
+00:55:42,000 --> 00:55:43,000
+I can,
+
+736
+00:55:43,000 --> 00:55:44,000
+I can,
+
+737
+00:55:44,000 --> 00:55:45,000
+I can do,
+
+738
+00:55:45,000 --> 00:55:46,000
+I can,
+
+739
+00:55:46,000 --> 00:55:47,000
+I can,
+
+740
+00:55:47,000 --> 00:55:48,000
+I can,
+
+741
+00:55:48,000 --> 00:55:49,000
+I can,
+
+742
+00:55:50,000 --> 00:55:51,000
+uh,
+
+743
+00:55:51,000 --> 00:55:52,000
+I can,
+
+744
+00:55:52,000 --> 00:55:53,000
+I can do that.
+
+745
+00:55:53,000 --> 00:55:54,000
+I can do that.
+
+746
+00:55:54,000 --> 00:55:55,000
+Um,
+
+747
+00:55:55,000 --> 00:55:56,000
+I can do that.
+
+748
+00:55:56,000 --> 00:55:57,000
+Um,
+
+749
+00:55:57,000 --> 00:55:58,000
+I can do that.
+
+750
+00:55:58,000 --> 00:55:59,000
+Um,
+
+751
+00:55:59,000 --> 00:56:00,000
+Um,
+
+752
+00:56:00,000 --> 00:56:01,000
+I can do that.
+
+753
+00:56:01,000 --> 00:56:02,000
+I've got that.
+
+754
+00:56:02,000 --> 00:56:03,000
+Um,
+
+755
+00:56:03,000 --> 00:56:04,000
+Okay.
+
+756
+00:56:04,000 --> 00:56:05,000
+Okay.
+
+757
+00:56:05,000 --> 00:56:06,000
+Okay.
+
+758
+00:56:06,000 --> 00:56:07,000
+Okay.
+
+759
+00:56:07,000 --> 00:56:08,000
+Okay.
+
+760
+00:56:08,000 --> 00:56:09,000
+All the,
+
+761
+00:56:09,000 --> 00:56:10,000
+I just,
+
+762
+00:56:10,000 --> 00:56:11,000
+Um,
+
+763
+00:56:11,000 --> 00:56:12,000
+I,
+
+764
+00:56:12,000 --> 00:56:13,000
+uh,
+
+765
+00:56:13,000 --> 00:56:14,000
+yeah.
+
+766
+00:56:14,000 --> 00:56:15,000
+Oh,
+
+767
+00:56:15,000 --> 00:56:16,000
+fine.
+
+768
+00:56:16,000 --> 00:56:17,000
+Alright.
+
+769
+00:56:17,000 --> 00:56:21,000
+Google the rest of them is personalized.
+
+770
+00:56:21,000 --> 00:56:24,000
+It's not personal in the sense that it's ours.
+
+771
+00:56:24,000 --> 00:56:30,000
+I compare that to being, it's like 1974, we don't have PC's yet.
+
+772
+00:56:30,000 --> 00:56:33,000
+I was not only alive, but an adult with two kids at that point.
+
+773
+00:56:33,000 --> 00:56:39,000
+But I remember that if you said personal computing or a personal computer back then,
+
+774
+00:56:39,000 --> 00:56:40,000
+it was absurd.
+
+775
+00:56:40,000 --> 00:56:44,000
+It was like saying personal nuclear power plant.
+
+776
+00:56:44,000 --> 00:56:52,000
+And I don't know what probably 99.99% of the investment going into AI is going into corporate AI.
+
+777
+00:56:52,000 --> 00:57:00,000
+It's going into the assumption that you are just a user and they can know more about you than you need.
+
+778
+00:57:00,000 --> 00:57:02,000
+They'll take care of everything.
+
+779
+00:57:02,000 --> 00:57:07,000
+And I think probably Apple is the only outlier there.
+
+780
+00:57:07,000 --> 00:57:13,000
+We don't know what the hell Apple is doing and whatever they're going to end up doing is going to be somewhere in their closed and closed.
+
+781
+00:57:14,000 --> 00:57:15,000
+Well, garden.
+
+782
+00:57:15,000 --> 00:57:18,000
+So, we're in a unique position here.
+
+783
+00:57:18,000 --> 00:57:23,000
+We, as far as I know, and I've put it in that piece,
+
+784
+00:57:23,000 --> 00:57:28,000
+collides the only one that's coming from the individual.
+
+785
+00:57:28,000 --> 00:57:30,000
+It's about our sovereignty.
+
+786
+00:57:30,000 --> 00:57:36,000
+We can do for the entire marketplace, the entire world with PCs different computing,
+
+787
+00:57:36,000 --> 00:57:42,000
+which is far more effective and capable and transformative.
+
+788
+00:57:42,000 --> 00:57:46,000
+And revolutionary than anything the giants are doing.
+
+789
+00:57:46,000 --> 00:57:50,000
+Even though what we're getting right now from the giants is fabulous is wonderful.
+
+790
+00:57:50,000 --> 00:57:52,000
+It's doing all kinds of cool stuff.
+
+791
+00:57:52,000 --> 00:57:58,000
+But if you're thinking about AI entirely inside the enterprise you're missing it and you're missing what we can do here.
+
+792
+00:57:58,000 --> 00:58:04,000
+So, that's sort of what I'm trying to help.
+
+793
+00:58:04,000 --> 00:58:07,000
+Good, why say to the world, right?
+
+794
+00:58:07,000 --> 00:58:09,000
+So that's for that said.
+
+795
+00:58:09,000 --> 00:58:12,000
+I'll put the link into the thing.
+
+796
+00:58:12,000 --> 00:58:13,000
+Thanks so much, doc.
+
+797
+00:58:13,000 --> 00:58:15,000
+Okay, look on.
+
+798
+00:58:15,000 --> 00:58:23,000
+On that note, I think what we'll do is we'll move on the call straight after this is the idea of exchange.
+
+799
+00:58:23,000 --> 00:58:29,000
+If someone can post the link to that, if no one, if you don't have it already,
+
+800
+00:58:29,000 --> 00:58:34,000
+chance that will be fantastic.
+
+801
+00:58:34,000 --> 00:58:37,000
+I see.
+
+802
+00:58:37,000 --> 00:58:43,000
+Yeah, I think it's posted in the general channel and great.
+
+803
+00:58:43,000 --> 00:58:46,000
+We've we've got it here in the in the thread.
+
+804
+00:58:46,000 --> 00:58:48,000
+So, thanks so much.
+
+805
+00:58:48,000 --> 00:58:50,000
+Thanks so so meeting number 42.
+
+806
+00:58:50,000 --> 00:58:51,000
+Great.
+
+807
+00:58:51,000 --> 00:58:58,000
+And thanks everybody for coming together and having a happy, quiet day.
+
+808
+00:58:58,000 --> 00:59:01,000
+Wish you all a great weekend.
+
+809
+00:59:01,000 --> 00:59:05,000
+And it's a gloomy Los Angeles.
+
+810
+00:59:05,000 --> 00:59:09,000
+Let's hope it brightens up today.
+
+811
+00:59:09,000 --> 00:59:15,000
+But we're going to move over now to the idea of exchange.
+
+812
+00:59:15,000 --> 00:59:17,000
+Prashun, you got your hand up.
+
+813
+00:59:17,000 --> 00:59:18,000
+Oh, no, I should ask.
+
+814
+00:59:18,000 --> 00:59:20,000
+Thank you for the time.
+
+815
+00:59:20,000 --> 00:59:21,000
+Okay.
+
+816
+00:59:21,000 --> 00:59:22,000
+Time's up.
+
+817
+00:59:22,000 --> 00:59:23,000
+Exactly.
+
+818
+00:59:23,000 --> 00:59:24,000
+There we go.
+
+819
+00:59:24,000 --> 00:59:25,000
+Great.
+
+820
+00:59:25,000 --> 00:59:26,000
+Thank you very much.
+
+821
+00:59:26,000 --> 00:59:27,000
+Thank you.
+
+822
+00:59:27,000 --> 00:59:28,000
+Thank you everybody.
+
+823
+00:59:28,000 --> 00:59:29,000
+Have a great weekend.
+
+824
+00:59:29,000 --> 00:59:30,000
+Thank you, folks.
+
+825
+00:59:30,000 --> 00:59:31,000
+Bye.
+
+826
+00:59:31,000 --> 00:59:32,000
+Bye.
+
