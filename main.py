@@ -1,7 +1,7 @@
 import whisper
 
 
-def load_model(model_name="tiny"):
+def load_model(model_name):
     try:
         print("Loading model...")
         model = whisper.load_model(model_name)
